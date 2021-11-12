@@ -2,6 +2,8 @@
 
 ## Installation
 
+It can be used to retrieve module codes out from a js bundle
+
 ```bash
 npm i webpack-module-wrapper -D
 ```
