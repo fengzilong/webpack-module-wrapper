@@ -1,8 +1,11 @@
 # webpack-module-wrapper
 
-## Installation
+[![npm](https://img.shields.io/npm/v/webpack-module-wrapper.svg?style=flat-square)](https://www.npmjs.org/package/webpack-module-wrapper)
+[![npm](https://img.shields.io/npm/dm/webpack-module-wrapper.svg?style=flat-square)](https://www.npmjs.org/package/webpack-module-wrapper)
+
 
 It can be used to help retrieve module codes out from a js bundle
+## Installation
 
 ```bash
 npm i webpack-module-wrapper -D
@@ -134,3 +137,7 @@ console.log( Date.now() )
 /******/ });
 //# sourceMappingURL=main.js.map
 ```
+
+## License
+
+MIT
