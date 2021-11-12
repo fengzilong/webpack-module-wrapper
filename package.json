@@ -6,6 +6,9 @@
   "scripts": {
     "example": "cd example && webpack"
   },
+  "files": [
+    "lib"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fengzilong/webpack-module-wrapper.git"
